@@ -8,4 +8,4 @@
 - 🛠️ Creating projects for software and network engineering opportunities.<br/>
 - 💭 Currently learning Javascript, Python, & ServiceNow Administration.</br>
 
-![Olly's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollipolliolly&show_icons=true&theme=dracula)
+![Olly's GitHub stats](https://github-readme-stats.vercel.app/api?username=rollipolliolly&show_icons=true&theme=jolly)
